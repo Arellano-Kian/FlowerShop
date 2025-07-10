@@ -1,0 +1,102 @@
+h1{
+  border-style:outset;
+  border-width: 8px;
+  border-color: gold;
+        text-shadow: 5px 5px 0px hsl(52 , 100%, 66%),
+        13px 13px 0px     hsl(52, 88%, 24%);
+        text-align: center;
+        font-size:4rem;
+        border-radius: 50px;
+        font-family: 'Segoe Script';
+        color : rgb(247, 247, 247) 
+        
+        
+    }
+#t1{
+  border-style: outset;
+       border-width: 4px;
+       border-color: #ffe552;
+        text-align: center;       
+        font-family: 'Monotype Corsiva';
+        background-color:white;
+        font-size:4rem ;
+        text-shadow: 0px 0px 0px grey, 3px 4px 5px grey;
+       
+}
+#t2{
+  border-style: outset;
+       border-width: 4px;
+       border-color: #ffe552;
+        text-align: center;       
+        font-family: 'Monotype Corsiva';
+        background-color:white;
+        font-size:4rem ;
+        text-shadow: 0px 0px 0px grey, 3px 4px 5px grey;      
+}
+    #box1{
+      border-style:double;
+       border-width: 4px;
+       border-color: #000000;
+      position:absolute;
+      width: 70%;
+      left: 25%;
+      background-color:white;
+       width: 600;
+       padding: 10px 70px 30px ;    
+       font-family:'Lucida Fax';
+       font-size: 20;
+       border-radius: 80px ;
+      margin-bottom: 800;
+      margin-left:auto;
+      margin-right:auto;
+      
+    }
+      #box2{
+        border-style:double;
+       border-width: 4px;
+       border-color: #000000;
+      position:absolute;
+      width: 70%;
+      left: 25%;
+      background-color:white;
+       width: 600;
+       padding: 30px 70px 30px ;
+       font-family:'Lucida Fax';
+       font-size: 20;
+       border-radius: 80px ;
+       margin-top: 800;
+       margin-left:auto;
+      margin-right:auto;
+      }
+     body{
+      background-color:#ffe552;
+     }
+     .img_deg{
+      border-style:double;
+       border-width: 4px;
+       border-color: #000000;
+      text-align: center;
+        border-radius:7%;
+       
+     }
+  .navbar ul{
+    list-style-type: none;
+    background-color: white;
+    padding: 0px;
+    margin: 30px ;
+    overflow: hidden;
+  }
+     
+    .navbar a{
+      color :black;
+      text-decoration: none;
+       display: block;
+       text-align: center ;
+      padding: 15px;
+    }
+    .navbar a:hover{
+      background-color: hsl(52, 88%, 24%);
+    }
+    .navbar li{
+      float:left;
+    }
